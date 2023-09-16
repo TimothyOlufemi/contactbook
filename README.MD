@@ -47,7 +47,9 @@ To setup the project for use the database needs to be set up first
 ## D. Folder Structure
 The project has various folders to store various files in their respective locations 
 	* The "**app**" folder consist of the project's Model, Views, and Controllers
+
 	* The "**config**" folder consist of the config.php file that set some constants in the operations of the projects
+
 	* The "**css**" and "**js**" folder have in them the stylesheet and javascript files respectively for the project
 
 
