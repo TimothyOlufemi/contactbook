@@ -1,0 +1,19 @@
+.initial_icon{
+         width: 37px;
+         height: 37px;
+         border-radius: 50%;
+         }
+         .initial_icon_letter{
+         font-family: trebuchet ms;
+         padding-top: 3px;
+         font-size: 20px;
+         text-align: center;
+         }
+         .cnt_name{
+         	padding-top: 5px;
+         	margin-right: 5px; 
+         }
+         body{
+         	margin: auto;
+         	width: 95%;
+         }
